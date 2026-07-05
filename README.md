@@ -18,7 +18,7 @@ Nuestro Buyer Persona de referencia es **"Ana"** (30 años, vive en CABA), una c
 A pesar de la excelente salud operativa en MercadoLibre, el canal de atracción e inspiración orgánica sufrió una parálisis crítica: **el perfil de Instagram (@john3d.arg) quedó completamente inactivo**. 
 
 Esta desconexión de canales generó un doble impacto negativo:
-1. **Ruptura del Funnel de Conversión:** El bache afectó de lleno la etapa de *Descubrimiento* de nuestro arquetipo principal ("Ana"),自由ando el canal donde se genera el deseo emocional por los productos.
+1. **Ruptura del Funnel de Conversión:** El bache afectó de lleno la etapa de *Descubrimiento* de nuestro arquetipo principal ("Ana"),anulando el canal donde se genera el deseo emocional por los productos.
 2. **Dependencia Extrema y Riesgo Operativo:** Al no tener activa la vidriera en redes sociales, el 100% del tráfico y las ventas pasaron a depender del algoritmo interno de MercadoLibre. Esto eliminó nuestra tracción de marca propia y nos expuso a cambios en las comisiones o visibilidad de la plataforma de e-commerce.
 
 ---
